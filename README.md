@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://ezgif.com/images/loadcat.gif" widt
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 - 
-<img src="https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&dpr=1&w=1000">
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
