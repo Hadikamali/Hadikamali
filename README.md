@@ -39,7 +39,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"  title="Pycharm" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svgg" title="Intellij" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode"  alt="Gatsby" width="40" height="40"/>&nbsp;
