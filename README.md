@@ -26,6 +26,5 @@
 ---
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hadikamali&theme=radical&border_radius=22&mode=weekly" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadikamali&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
