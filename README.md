@@ -28,4 +28,4 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hadikamali&theme=radical&border_radius=22&mode=weekly)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hadikamali&layout=compact&theme=radical)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hadikamali&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hadikamali&layout=compact&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
