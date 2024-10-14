@@ -32,7 +32,6 @@
   </a>
   <br>
   <br>
-  <br>
 </div>
 <!-- LANGUAGES_SECTION_START -->
 
