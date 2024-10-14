@@ -34,11 +34,3 @@
   <br>
   <br>
 </div>
-<div align="center">
-  <a href="https://github.com/M-Mahdikamali/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadikamali&theme=dracula" alt="M-Mahdikamali's github activity graph">
-  </a>
-  <br>
-  <br>
-  <br>
-</div>
