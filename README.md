@@ -31,7 +31,6 @@
     <img src="https://streak-stats.demolab.com?user=Hadikamali&theme=radical&border_radius=22&mode=weekly" alt="GitHub Streak">
   </a>
   <br>
-  <br>
 </div>
 <!-- LANGUAGES_SECTION_START -->
 
