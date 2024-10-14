@@ -22,12 +22,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
+
 ### :fire: My Stats :
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Hadikamali&theme=radical&border_radius=22&mode=weekly" alt="GitHub Streak">
   </a>
+  <br>
+  <br>
   <br>
 </div>
 <!-- LANGUAGES_SECTION_START -->
