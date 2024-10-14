@@ -4,7 +4,7 @@ import re
 
 # دریافت توکن از متغیر محیطی
 GITHUB_TOKEN = os.getenv('GH_PAT')
-USERNAME = "M-Mahdikamali"  # نام کاربری گیت‌هاب شما
+USERNAME = "Hadikamali"  # نام کاربری گیت‌هاب شما
 
 # بررسی اینکه آیا توکن به درستی تنظیم شده است
 if GITHUB_TOKEN is None:
