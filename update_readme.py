@@ -4,7 +4,7 @@ import re
 
 # دریافت توکن از متغیر محیطی
 GITHUB_TOKEN = os.getenv('GH_PAT')
-USERNAME = "M-Mahdikamali"  # نام کاربری گیت‌هاب شما
+USERNAME = "Hadikamali"  # نام کاربری گیت‌هاب شما
 
 # بررسی اینکه آیا توکن به درستی تنظیم شده است
 if GITHUB_TOKEN is None:
@@ -60,7 +60,7 @@ if total_projects == 0:
 new_content = """
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br>
-  <img src="https://komarev.com/ghpvc/?username=M-Mahdikamali&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Hadikamali&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -88,7 +88,7 @@ new_content = """
 ### :fire: My Stats :
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=M-Mahdikamali&theme=radical&border_radius=22&mode=weekly" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=Hadikamali&theme=radical&border_radius=22&mode=weekly" alt="GitHub Streak">
   </a>
   <br>
   <br>
