@@ -1,1 +1,37 @@
+name: Update README with GitHub Languages
 
+on:
+  schedule:
+    - cron: '0 0 */20 * *'  # اجرای خودکار هر 20 روز یک بار در ساعت 00:00
+  workflow_dispatch:  # امکان اجرای دستی
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GH_PAT }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run Python script to update README
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
+      run: python update_readme.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add README.md
+        git commit -m "Update README with latest language stats" --allow-empty
+        git push https://Hadikamali:${{ secrets.GH_PAT }}@github.com/Hadikamali/Hadikamali.git HEAD:main
