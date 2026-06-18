@@ -28,7 +28,7 @@
 
 ### :fire: My Stats :
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hadikamali" alt="GitHub Streak" /></a>
+<a href="https://github.com/Hadikamali"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
     <img src="https://streak-stats.demolab.com?user=Hadikamali&theme=radical&border_radius=22&mode=weekly" alt="GitHub Streak">
   </a>
   <br>
