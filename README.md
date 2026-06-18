@@ -28,15 +28,10 @@
 
 ### :fire: My Stats :
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Hadikamali&theme=radical&border_radius=22&mode=weekly" alt="GitHub Streak">
+  <a href="https://github.com/Hadikamali">
+    <img src="https://streak-stats.demolab.com/?user=Hadikamali&theme=radical&border_radius=22" alt="GitHub Streak" />
   </a>
-  <br>
-  <br>
-  <br>
 </div>
-<div align="center">
-
 ### Languages ​​used in my repositories
 
 | Programming language | Usage percentage |
